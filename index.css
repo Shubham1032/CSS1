@@ -1,0 +1,30 @@
+ p{
+    color: brown;
+ }
+ a{
+   color: rgb(233, 18, 18);
+ }
+.text2{
+   text-decoration: underline;
+   font-style: italic;
+}
+.text1{
+   background-color: rgb(245, 241, 24);
+   color: rgb(82, 19, 19);
+   font-weight: bold;
+}
+.text3{
+   text-decoration: line-through;
+   font-weight:bold;
+}
+
+#txt2{
+   color: brown;
+   letter-spacing: 3px;
+}
+.text4{
+   background-color: rgb(245, 241, 24);
+   color: rgb(82, 19, 19);
+   font-weight: bold;
+}
+
