@@ -4,6 +4,8 @@
  a{
    color: rgb(233, 18, 18);
    text-decoration: none;
+   background-color: yellow;
+   font-style: italic;
  }
 .text2{
    text-decoration: underline;
