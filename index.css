@@ -3,6 +3,7 @@
  }
  a{
    color: rgb(233, 18, 18);
+   text-decoration: none;
  }
 .text2{
    text-decoration: underline;
@@ -10,7 +11,7 @@
 }
 .text1{
    background-color: rgb(245, 241, 24);
-   color: rgb(82, 19, 19);
+   color: rgb(122, 16, 16);
    font-weight: bold;
 }
 .text3{
